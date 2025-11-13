@@ -15,3 +15,11 @@
 - `data/` - исходные данные
 - `notebooks/` - Jupyter notebook с анализом
 
+## Быстрый старт
+
+```bash
+# Клонировать репозиторий
+git clone https://github.com/aaseliverstova/music-association-analysis.git
+
+# Запустить Jupyter
+jupyter notebook
